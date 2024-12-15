@@ -1,0 +1,35 @@
+-- ENTRAR NO GITHUB E CRIAR UM NOVO REPOSITORIO
+
+-- BOTÃO DIREITO NA PASTA OU ONDE QUISER E SET 'GIT BASH HERE'
+
+-- CONFIGURANDO O USUARIO
+git config --global user.name "italoOsL"
+
+-- CONFIGURANDO O EMAIL
+	git config --global user.email "email@gmail.com"
+
+-- USAR O LINK DO REPOSITORIO NO GITHUB PARA CLONA-LO
+	git clone LINK_DO_REPOSITORIO_NO_GITHUB.git
+
+-- ACESSAR O REPOSITORIO NA MAQUINA ATRAVÉS DO GIT
+$ cd envioGitHub
+
+-- ADICIONANDO 
+	git add .
+
+-- ENVIO
+$ git commit -m "PRIMEIRO COMMIT"
+
+-- PARA ENVIAR 
+$ git push
+
+
+
+
+
+
+
+
+
+
+
